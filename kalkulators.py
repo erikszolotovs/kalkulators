@@ -2,7 +2,7 @@ from tkinter import*
 mansLogs=Tk()
 import math
 mansLogs.title('Kalkulators')
-
+#s
 def btnClick(number):
     current=e.get()#nolasa skaitli
     e.delete(0,END)#nodzēš
